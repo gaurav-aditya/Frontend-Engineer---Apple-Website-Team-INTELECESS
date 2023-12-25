@@ -1,0 +1,16 @@
+body {
+    font-family: 'Helvetica Neue', sans-serif;
+}
+
+.product {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.product-details {
+    margin-left: 20px;
+}
+
+/* Add your own styles for additional design enhancements */
